@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ffd4bdabdd29a9f40bb18fb0c229da3e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {instanceID: 0}
+  - jumpableObject: {instanceID: 0}
+  - pillar: {instanceID: 0}
+  - playerStartPos: {instanceID: 0}
+  - playerEndPos: {instanceID: 0}
+  - startMenu: {instanceID: 0}
+  - controlsMenu: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
