@@ -4,6 +4,9 @@ An infinite runner, styled after the 80s future
 
 <img src="Assets/Textures/logo.png?raw=true"/>
 
+#### Contributors:
+* [Nathan Stoner](https://github.com/Naxhi)
+
 ## The Game
 
 It's the distant past's future, and you are Axel-Lee.exe, a cyber ninja robot cop... from the future. Your task, should you choose to accept it, is to patrol the internet's conduits for malware and bad actors. Obliterate the threats without hesitation.
